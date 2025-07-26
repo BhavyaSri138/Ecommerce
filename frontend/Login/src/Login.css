@@ -1,0 +1,40 @@
+html{
+    align-content: center;
+}
+
+
+
+body{
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin: 10px;
+    min-height: 100vh;
+    background-image: url();
+    background-size: cover;
+    background-position: right;                                                               
+    overflow: hidden;
+    /* width: 100px; */
+
+}
+
+
+.div{
+    min-height: 100vh;
+    padding: 10px;
+    width: 200vh;
+    align-content: center;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+
+.image{
+    height: 100vh;
+}
+
+.img{
+    height: 34px;
+    width: 34px;
+    padding: 2px;
+}
